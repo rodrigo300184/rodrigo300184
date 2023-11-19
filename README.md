@@ -20,3 +20,4 @@
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigo300184&show_icons=true&locale=en" alt="rodrigo300184" /></div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigo300184&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Language](https://img.shields.io/github/languages/top/rodrigo300184)](https://github.com/rodrigo300184)
