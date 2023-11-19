@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Martínez</h1>
-<h3 align="center">A passionate frontend developer from Argentina now living in Spain.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodrigo300184" alt="rodrigo300184" /></a> </p>
+<h3 align="center">A passionate frontend developer living in Spain.</h3>
 
 - 🔭 I’m currently working on [Miranda Dashboard](http://rodrigo300184-miranda-dashboard.s3-website.eu-west-3.amazonaws.com)
 
