@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rodrigo Martínez</h1>
-<h3 align="center">A passionate frontend developer living in Spain.</h3>
-
-- 🔭 I’m currently working on [Miranda Dashboard](http://rodrigo300184-miranda-dashboard.s3-website.eu-west-3.amazonaws.com)
-
-- 🌱 I’m currently learning **PHP and Laravel**
+<h3 align="center">A passionate full stack developer living in Spain.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/rodrigo300184](https://github.com/rodrigo300184)
 
