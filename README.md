@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rodrigomartinez.correo@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rodrigo-mart%C3%ADnez-ba633993/](https://www.linkedin.com/in/rodrigo-martinez-ba633993/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rodrigo-martinez-ba633993/](https://www.linkedin.com/in/rodrigo-martinez-ba633993/)
 
 - ⚡ Fun fact **I really enjoy teamwork!**
 
